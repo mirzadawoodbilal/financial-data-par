@@ -1,0 +1,54 @@
+booking_date: Unknown
+value_date: Datetime
+amount: Numeric
+currency: Text
+type: Text
+description: Text
+debtor: Text
+creditor: Text
+signed_amount: Numeric
+transaction_type: Text
+Posting Date: Unknown
+VAT Date: Unknown
+Document Type: Text
+Include Sales Advance Payment Use: Text
+Advance Doc. Type: Text
+Document No.: Text
+Customer No.: Text
+Customer Name: Text
+Description: Text
+Open: Text
+Cost Center: Text
+Product: Text
+Currency Code: Text
+Original Amount: Unknown
+Amount: Unknown
+Amount (LCY): Unknown
+Remaining Amount: Unknown
+Available Advance: Unknown
+Remaining Amt. (LCY): Unknown
+Sales (LCY): Unknown
+Due Date: Unknown
+Pmt. Discount Date: Unknown
+Pmt. Disc. Tolerance Date: Unknown
+Original Pmt. Disc. Possible: Unknown
+Remaining Pmt. Disc. Possible: Unknown
+Max. Payment Tolerance: Unknown
+Payment Method Code: Text
+Company Bank Account No.: Text
+Partner Bank Account No.: Unknown
+On Hold: Unknown
+Entry No.: Unknown
+Exported to Payment File: Text
+Message to Recipient: Unknown
+Recipient Bank Account: Unknown
+Ledger Analytic: Unknown
+Item: Text
+Employee Code: Unknown
+Fixed Asset: Unknown
+Call_off Code: Unknown
+Counterparty: Text
+M-B Transfer ID: Unknown
+M-B Applies-to ID: Unknown
+Order No.: Text
+Document Subtype: Text
